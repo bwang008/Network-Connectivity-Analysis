@@ -1,0 +1,5 @@
+"tenant","mRID","name","aliasName","description","mRID_TrippedEquipment","class_TrippedEquipment","actualPeriodStart","actualPeriodEnd","cause","isPlanned","criticalCount","totalCount","type","statusValue","statusDateTime","stormId","stormIndicator","phase","feederId","comment","district","region","jurisdiction","substation","address","longitude","latitude","modifiedTimeStamp","rowState"
+"SCE","122186365-2032938603","122186365",,,"4226260E:RAR3434",,2020-01-01T00:01:00.000+00:00,2020-01-01T00:06:00.000+00:00,"TBD",false,,,,,,,,,"FUGATE",,,,,"BROWNING",,,,2020-08-11T13:45:38.000+00:00,"I"
+"SCE","122186365-2032938605","122186365",,,"2100269E:RCS2025",,2020-01-01T00:01:00.000+00:00,2020-01-01T01:29:00.000+00:00,"TBD",false,,,,,,,,,"FUGATE",,,,,"BROWNING",,,,2020-08-11T13:45:38.000+00:00,"I"
+"SCE","122186365-2032939565","122186365",,,"603777E:PS1400",,2020-01-01T00:01:00.000+00:00,2020-01-01T01:50:00.000+00:00,"TBD",false,,,,,,,,,"FUGATE",,,,,"BROWNING",,,,2020-08-11T13:45:38.000+00:00,"I"
+

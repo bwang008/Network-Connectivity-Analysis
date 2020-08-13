@@ -1,0 +1,3 @@
+"tenant","name","mRID_Meter","eventtypeName","eventtypeDescription","domain","eventOrAction","subDomain","type","createdDateTime","statusValue","statusDateTime","activityType","activitySeverity","activityReason","source"
+"SCE","200010321985488","ESN","PowerOutageOrRestoration",,"METER","Primary Power Down","EVENT",,2019-01-01T14:23:59.000+00:00,"Received",2019-01-01T22:23:59.000+00:00,,,,"AMI"
+"SCE","200010321985489","ESN","PowerOutageOrRestoration",,"METER","Primary Power Up","EVENT",,2019-01-01T16:22:25.000+00:00,"Received",2019-01-01T22:23:59.000+00:00,,,,"AMI"
